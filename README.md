@@ -1,7 +1,7 @@
 ## Olá, Seja bem vindo ao meu perfil.
 
 - 🎓 Estudante de Desenvolvimento Full Stack na @betrybe.
-- 📩 phlopes93@gmail.com.
+- 📩 phlopes93@gmail.com
 - 🖥️ Apaixonado por tecnologia.
 
 <br>
